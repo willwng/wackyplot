@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+wackyplot_willwng.egg-info/PKG-INFO
+wackyplot_willwng.egg-info/SOURCES.txt
+wackyplot_willwng.egg-info/dependency_links.txt
+wackyplot_willwng.egg-info/top_level.txt

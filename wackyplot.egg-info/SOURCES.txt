@@ -1,0 +1,6 @@
+README.md
+setup.py
+wackyplot.egg-info/PKG-INFO
+wackyplot.egg-info/SOURCES.txt
+wackyplot.egg-info/dependency_links.txt
+wackyplot.egg-info/top_level.txt

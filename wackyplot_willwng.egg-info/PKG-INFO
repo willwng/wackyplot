@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: wackyplot_willwng
+Version: 0.0.1
+Summary: Plotting helper package
+Author: willwng
+Project-URL: Homepage, https://github.com/willwng/wackyplot
+Project-URL: Issues, https://github.com/willwng/wackyplot/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Wackyplot
+
+This is a plot helping library that I found particularly useful when writing scientific papers with multiple figures.
+
+The idea is to keep plot styles consistent (e.g., figure sizes, legends, axes,file formats).
